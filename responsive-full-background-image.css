@@ -64,10 +64,10 @@ body {
 	top: 0;
 	width: 100%;
 	z-index:-1;
-	-webkit-animation: snow 23s linear infinite;
-	-moz-animation: snow 23s linear infinite;
-	-ms-animation: snow 23s linear infinite;
-	animation: snow 23s linear infinite;
+	-webkit-animation: snow 21s linear infinite;
+	-moz-animation: snow 21s linear infinite;
+	-ms-animation: snow 21s linear infinite;
+	animation: snow 21s linear infinite;
 }
 @keyframes snow {
   0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
