@@ -137,7 +137,9 @@ blockquote cite {
 
 /* Manuel's */
 .col {
-  column-width: 100px;
+  column-width: 250px;
+  -webkit-column-width: 250px; /* Chrome, Safari, Opera */
+  -moz-column-width: 250px; /* Firefox */ 
 }
 
 /* Media Queries */
