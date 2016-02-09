@@ -133,6 +133,13 @@ blockquote cite {
   display: none;
 }
 
+
+
+/* Manuel's */
+.col {
+  column-width: 100px;
+}
+
 /* Media Queries */
 @media only screen and (max-width: 340px) {
   
