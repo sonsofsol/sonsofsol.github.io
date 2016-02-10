@@ -134,7 +134,7 @@ blockquote cite {
 }
 
 
-
+/* ************************************************************************ */
 /* Manuel's */
 .col {
   column-width: 700px;
@@ -142,8 +142,8 @@ blockquote cite {
   -moz-column-width: 700px; /* Firefox */ 
   
   column-count: 2;
-  -webkit-column-count: 3; /* Chrome, Safari, Opera */
-  -moz-column-count: 3; /* Firefox */
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
     
 }
 
