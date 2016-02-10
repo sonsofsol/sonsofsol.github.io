@@ -140,6 +140,11 @@ blockquote cite {
   column-width: 700px;
   -webkit-column-width: 700px; /* Chrome, Safari, Opera */
   -moz-column-width: 700px; /* Firefox */ 
+  
+  column-count: 2;
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */
+  -moz-column-count: 3; /* Firefox */
+    
 }
 
 /* Media Queries */
