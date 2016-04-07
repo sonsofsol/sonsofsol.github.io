@@ -1,6 +1,15 @@
 
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
 
+.title {
+  position: absolute;
+  right: 0;
+  bottom: 45vh;
+  left: 0;
+  padding: 5rem;
+  font-size: 50px;
+  text-align: center;
+}
 
 /* Presentational style rules only */
 
