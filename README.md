@@ -1,9 +1,6 @@
 # sonsofsol.github.io
 Sons of Sol Website
 
-###Snow Animation By Nicky Christensen
-http://codepen.io/NickyCDK
-
 ###Responsive Full Background Image Using CSS
 http://sixrevisions.com/css/responsive-background-image/
 
