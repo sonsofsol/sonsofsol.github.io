@@ -3,10 +3,12 @@
 
 .title {
   position: absolute;
+  /*
   right: 0;
   bottom: 45vh;
   left: 0;
   padding: 5rem;
+  */
   font-size: 50px;
   text-align: center;
   padding: 15px 5px;
