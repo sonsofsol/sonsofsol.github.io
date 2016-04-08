@@ -9,7 +9,11 @@
   padding: 5rem;
   font-size: 50px;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
+}
+
+.fa {
+	padding: 12px;
 }
 
 /* Presentational style rules only */
