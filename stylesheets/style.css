@@ -2,8 +2,9 @@
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
 
 .title {
-  position: absolute;
+  
   /*
+  position: absolute;
   right: 0;
   bottom: 45vh;
   left: 0;
